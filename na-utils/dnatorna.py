@@ -2,7 +2,7 @@
 
 # %load dnatorna.py
 """
-Convert DNA sequences to RNA.
+Convert DNA sequences to RNA with the same capitalization.
 """
 
 def rna(seq):
